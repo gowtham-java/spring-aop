@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN 2.0//EN"
+        "http://www.springframework.org/dtd/spring-beans-2.0.dtd">
+  <beans>
+   <bean id="hdfc" class="com.ex.Account"></bean> 
+   <bean id="around" class="com.ex.aroundAspect"></bean>  
+   
+  // <bean id="auth"  class="com.ex.AuthenticationAspect"></bean>  
+  //<bean id="logg"  class="com.ex.LoggingAspect"></bean>   
+   
+   <bean id="pfb" class="org.springframework.aop.framework.ProxyFactoryBean">
+   
+   <property name="proxyInterfaces" value="com.ex.Hdfc"></property>
+   <property name="interceptorNames">
+   <list>
+     <value>auth</value>//
+     <value>logg</value>//
+     
+     <value>around></value>
+   
+   </list>
+   </property>
+   <property name="target">
+   <ref bean="hdfc"/>
+   
+   </property>   
+   </bean> 
+        
+  </beans>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/com.springsource.org.hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/commons-pool-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/dom4j-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/javax.transaction.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/org.springframework.orm-3.1.2.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/org.springframework.transaction-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-aop-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-beans-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-beans-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-core-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-dao-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-jcl-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-jdbc-3.2.4.release.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-tx-5.2.5.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-web-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/lenovo/Downloads/spring jar/spring-webmvc-4.2.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
